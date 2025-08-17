@@ -1,5 +1,3 @@
-// buscar produto, colocar na lista e aumentar quantidade
-
 /// <reference types="cypress"/>
 
 describe('Cenário 3 - Frontend - Validar fluxo de busca de produtos', () => {
