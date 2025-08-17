@@ -1,6 +1,9 @@
 
 # Teste Prático - NTT Data
 
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript)
+![Cypress](https://img.shields.io/badge/Framework-Cypress-4BC0C0?style=flat&logo=cypress)
+
 Repositório contendo o teste prático de automação de **frontend** e **API** da empresa NTT Data. Os testes foram implementados utilizando **Cypress** e **JavaScript**, seguindo boas práticas de desenvolvimento e padrões de projeto para garantir legibilidade e manutenção do código.
 
 ---
