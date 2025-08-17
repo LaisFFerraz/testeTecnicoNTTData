@@ -49,7 +49,7 @@ git clone https://github.com/LaisFFerraz/testeTecnicoNTTData.git
 ```
 2. Navegue até a pasta do projeto:
 ```
-cd NTTDataTeste
+cd testeTecnicoNTTData
 ```
 3. Instale as dependências:
 ```
