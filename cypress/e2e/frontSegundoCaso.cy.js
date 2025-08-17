@@ -1,5 +1,3 @@
-//// colocar produto na lista direto da home, ir para lista de compras, limpar carrinho e voltar para página inicial
-
 /// <reference types="cypress"/>
 
 describe('Cenário 2 - Frontend - Validar fluxo de lista de compras', () => {
