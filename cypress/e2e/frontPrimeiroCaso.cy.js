@@ -1,4 +1,3 @@
-// cadastrar usuário, fazer login automaticamente e fazer logout
 /// <reference types="cypress"/>
 
 describe('Cenário 1 - Frontend - Validar cadastro, login e logout', () => {
