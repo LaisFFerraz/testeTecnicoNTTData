@@ -1,3 +1,4 @@
+
 # Teste Prático - NTT Data
 
 Repositório contendo o teste prático de automação de **frontend** e **API** da empresa NTT Data. Os testes foram implementados utilizando **Cypress** e **JavaScript**, seguindo boas práticas de desenvolvimento e padrões de projeto para garantir legibilidade e manutenção do código.
@@ -37,6 +38,30 @@ cypress/
 
 ---
 
+## Como Executar
+
+1. Clone o repositório:
+``` 
+git clone https://github.com/LaisFFerraz/testeTecnicoNTTData.git
+```
+2. Navegue até a pasta do projeto:
+```
+cd NTTDataTeste
+```
+3. Instale as dependências:
+```
+npm install
+```
+4. Execute os testes:
+```
+npx cypress run
+```
+5. Abrir interface do Cypress (GUI):
+```
+npx cypress open
+```
+
+---
 ## Cenários de Teste
 
 ### API
@@ -58,3 +83,4 @@ Desenvolvido por **Lais Ferraz**
 **LinkedIn:** [https://www.linkedin.com/in/laisffnovaes/](#)  
 
 Profissional com 7 anos de experiência na área de Qualidade de Software, com foco no setor de Seguradora e Telecomunicações. Especialista em testes manuais e automatizados, além de liderança de equipes e gestão de testes em projetos complexos. Perfil proativo, organizado, comunicativo e extrovertido, apto a colaborar em ambientes dinâmicos e multifacetados.
+
